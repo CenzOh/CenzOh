@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats-cenzoh.vercel.app/api/top-langs/?username=CenzOh&layout=compact&theme=darcula)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CenzOh&layout=compact&theme=darcula)
 
-![GitHub stats](https://github-readme-stats-cenzoh.vercel.app/api?username=CenzOh&show_icons=true&theme=darcula)
+![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=CenzOh&show_icons=true&theme=darcula)
 
